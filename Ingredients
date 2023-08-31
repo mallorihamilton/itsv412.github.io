@@ -1,1 +1,26 @@
-
+<!DOCTYPE html>
+<html>
+<body>
+<nav>
+<style>body {color: black}</style>
+<a href="./index.html">Home</a>
+<a href="./Ingredients.html">Ingredients</a>
+</nav>
+<h1>This page will be for all the necessary ingredients in order to bake your pumkpin loaf!</h1>
+<p><div>
+  <ul>
+    <li>1-2/3 cups all-purpose flour</li>
+    <li>1-1/2 cups sugar</li>
+    <li>1 teaspoon baking soda</li>
+    <li>1 teaspoon ground cinnamon</li>
+    <li>3/4 teaspoon salt</li>
+    <li>1/2 teaspoon baking powder</li>
+    <li>1/2 teaspoon ground nutmeg</li>
+    <li>2 large eggs, room temperature</li>
+    <li>1 cup canned pumpkin</li>
+    <li>1/2 cup canola oil</li>
+    <li>1/2 cup water</li>
+  </ul>
+</div></p>
+</body>
+</html>
